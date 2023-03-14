@@ -29,6 +29,7 @@
     "start": "gulp",
     "build": "gulp prod",
     "updatevendors": "gulp updatevendors"
+    
   },
   "repository": {
     "type": "git",
